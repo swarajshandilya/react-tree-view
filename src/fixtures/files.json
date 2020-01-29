@@ -1,0 +1,65 @@
+[
+  {
+    "path": "/animals/frog/index.txt",
+    "name":"Node 1",
+    "content": "Cumque et enim molestiae aperiam fuga eum inventore. Et voluptate dolorum molestiae dolorum. Animi nobis ipsam est est quas iusto ratione est alias. Dolorum quia eligendi non corrupti non consequatur quaerat sed sit. Ducimus odio laudantium animi voluptas.",
+    "createdAt": "2018-07-19T19:44:12.535Z",
+    "updatedAt": "2018-12-12T12:00:19.070Z"
+  },
+  {
+    "path": "/animals/zebra.md",
+    "name":"Node 2",
+    "content": "Earum vel qui et quos deserunt consequuntur. Sunt iure impedit atque nulla harum iure et. Explicabo nulla iusto et incidunt. Voluptate consequatur nihil quibusdam esse enim aliquam qui. Cupiditate ipsum repellendus voluptatem quo dolorem consequatur quod modi. Eaque non tenetur.",
+    "createdAt": "2019-04-25T18:41:01.534Z",
+    "updatedAt": "2019-02-04T13:16:48.116Z",
+    "children": [{
+      "path": "/animals/frog/index.txt",
+      "name":"Node 2.1",
+      "content": "Cumque et enim molestiae aperiam fuga eum inventore. Et voluptate dolorum molestiae dolorum. Animi nobis ipsam est est quas iusto ratione est alias. Dolorum quia eligendi non corrupti non consequatur quaerat sed sit. Ducimus odio laudantium animi voluptas.",
+      "createdAt": "2018-07-19T19:44:12.535Z",
+      "updatedAt": "2018-12-12T12:00:19.070Z"
+    },
+    {
+      "path": "/animals/frog/index.txt",
+      "name":"Node 2.2",
+      "content": "Cumque et enim molestiae aperiam fuga eum inventore. Et voluptate dolorum molestiae dolorum. Animi nobis ipsam est est quas iusto ratione est alias. Dolorum quia eligendi non corrupti non consequatur quaerat sed sit. Ducimus odio laudantium animi voluptas.",
+      "createdAt": "2018-07-19T19:44:12.535Z",
+      "updatedAt": "2018-12-12T12:00:19.070Z"
+    }]
+  },
+  {
+    "path": "/animals/giraffe/index.md",
+    "name":"Node 3",
+    "content": "Ex ipsa voluptatem quia omnis alias aliquid voluptatem. Quibusdam saepe reprehenderit fuga impedit sint enim nemo enim voluptate. Voluptas aut et quo.",
+    "createdAt": "2018-07-25T11:04:41.181Z",
+    "updatedAt": "2019-01-05T20:12:56.409Z"
+  },
+  {
+    "path": "/animals/lion/index.ts",
+    "name":"Node 4",
+    "content": "Ut quibusdam asperiores ullam ex. Aut aut ut neque voluptas sed dicta. Aut eos atque. Corporis dolor minima reprehenderit animi consequatur rerum facilis sint aut.",
+    "createdAt": "2019-02-19T07:52:36.586Z",
+    "updatedAt": "2018-07-02T18:28:37.205Z"
+  },
+  {
+    "path": "/shapes/geometric/circle.txt",
+    "name":"Node 5",
+    "content": "Nulla dolor facilis. Consectetur qui voluptas recusandae dolor repellendus quisquam autem. Est optio ut quia. Quae est et consequatur qui quia. Ut quia ut temporibus accusamus earum omnis vel aut et. Molestiae rerum rerum.",
+    "createdAt": "2018-08-31T09:51:24.418Z",
+    "updatedAt": "2018-06-24T20:16:00.470Z"
+  },
+  {
+    "path": "/shapes/geometric/triangle.txt",
+    "name":"Node 6",
+    "content": "Nihil magni qui maxime non molestiae. Illum voluptatem rem consequatur et odio. Velit cupiditate repudiandae corporis natus repellat provident.",
+    "createdAt": "2019-03-04T11:38:02.066Z",
+    "updatedAt": "2019-04-06T10:10:13.811Z",
+    "children": [{
+      "path": "/animals/frog/index.txt",
+      "name":"Node 6.1",
+      "content": "Cumque et enim molestiae aperiam fuga eum inventore. Et voluptate dolorum molestiae dolorum. Animi nobis ipsam est est quas iusto ratione est alias. Dolorum quia eligendi non corrupti non consequatur quaerat sed sit. Ducimus odio laudantium animi voluptas.",
+      "createdAt": "2018-07-19T19:44:12.535Z",
+      "updatedAt": "2018-12-12T12:00:19.070Z"
+    }]
+  }
+]
